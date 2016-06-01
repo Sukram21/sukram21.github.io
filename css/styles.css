@@ -33,3 +33,26 @@
 .description {
 	text-align: justify;
 }
+
+/** For the technology interst & projects boxes **/
+.row {
+	/*margin-bottom: 0.5rem;*/
+} 
+
+.column {
+	border-radius: .4rem; 
+	background-color: #f4f5f6;
+	margin-left: 1rem;
+	margin-right: 1rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	padding: 0.5rem;
+}
+
+.column div {
+	padding: 0.5rem;
+}
+
+.list-title {
+	font-weight: bold; 
+}
